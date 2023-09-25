@@ -9,7 +9,7 @@ const AddToCart = () => {
           console.log("Click");
         }}
       >
-        Add to cart
+        Add to cart !
       </button>
     </div>
   );
